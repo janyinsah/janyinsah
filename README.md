@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @janyinsah - Name Josiah
-- 👀 I’m interested in ... coding! Learning and creating various projects to expand my knowledge!
+- 👋 Hey, I’m @janyinsah - Name Josiah 
+- 👀 I’m interested in ... Expanding my computing knowledge through coding! 
 - 🌱 I’m currently learning ... Python and Javascript!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Python backend project, and Javascript front end web development.
 - 📫 How to reach me ... ja.bondzie@aol.com
 
 <!---
